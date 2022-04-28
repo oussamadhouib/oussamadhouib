@@ -1,6 +1,6 @@
 ### Hi there I'm Oussama 👋
 
-- 🔭 I’m currently working as a Software Engineer
+- 🔭 I’m currently working as a Fullstack Js Engineer
 - 🌱 I’m currently learning Microfrent-end
 - ⚡ Fun fact: I love photography and  video making !
 -->
