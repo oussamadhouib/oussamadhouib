@@ -1,10 +1,8 @@
 ### Hi there I'm Oussama 👋
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I know it’s crazy, but I love to coding !
+- 🌱 I’m currently learning Microfrent-end
+- ⚡ Fun fact: I love photography and  video making !
 -->
 
 **Languages and Tools:**  
