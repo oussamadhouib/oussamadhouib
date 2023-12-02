@@ -1,7 +1,6 @@
 ### Hi there I'm Oussama 👋
 
-- 🔭 I’m currently working as a Fullstack Js Engineer
-- 🌱 I’m currently learning Microfrent-end
+- 🔭 I’m currently working as a Fullstack Js Engineer (NextJs / NestJs)
 - ⚡ Fun fact: I love photography and  video making !
 -->
 
